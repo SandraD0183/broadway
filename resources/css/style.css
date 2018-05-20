@@ -1,5 +1,4 @@
 h1 {
-  background-image: url(../images/the-flatiron-building.png);
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
@@ -29,4 +28,27 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
+}
+
+html {
+  text-align: center;
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+  font-family: Helvetica;
+  font-size: 11px;
+}
+
+a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+nav {
+  background-image: url(../images/the-flatiron-building.png);
+  background-size: auto;
 }
